@@ -15,6 +15,9 @@ public class Card
     private String suit;
     
     public static final String[] SUITS = {"diamonds","spades","clubs","hearts"};
+    
+    public static final String[] RANKS = {"2", "3", "4", "5", "6", "7", "8", "9", "10",
+            "Jack", "Queen", "King", "Ace"};
 
     /**
      * @return the numbers
@@ -43,6 +46,6 @@ public class Card
     public void setSuit(String suit) {
         this.suit = suit;
     }
-    
+   
     
 }

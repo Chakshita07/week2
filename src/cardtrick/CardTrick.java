@@ -28,6 +28,7 @@ public class CardTrick {
       {
         // step 1: generate 7 random cards and store in array
           Card c= new Card();
+          
           c.setNumbers(2);//random generation for number/use method
           c.setSuit("suit by random suit generation");
           magicHand[i]=c; // stores the card object  in array
