@@ -12,6 +12,7 @@ public class JavaApplication2DemoClass {
 
     /**
      * @param args the command line arguments
+     * hello
      */
     public static void main(String[] args) {
         // TODO code application logic here
