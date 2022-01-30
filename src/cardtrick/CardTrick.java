@@ -58,6 +58,10 @@ public class CardTrick {
           
                         }
     // step 3 do change in remote repository. hard coded card details card number =2,hearts to find in array
+     public static void main(String args[]) { 
+    Main luckyCard = new Main(); //creating an object
+    System.out.println();
+    
     }
     
 
