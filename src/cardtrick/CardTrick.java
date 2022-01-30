@@ -63,6 +63,7 @@ public class CardTrick {
          luckyCard.setSuits("clubs");
          luckyCard.setNumber(3);
     System.out.println(luckyCard.getNumber().getSuits);
+         
     
     }
     
